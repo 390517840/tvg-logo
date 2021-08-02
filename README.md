@@ -10,3 +10,6 @@ https://raw.githubusercontent.com/390517840/tvg-logo/main/hahaxuandong.png
 
 福建少儿
 https://raw.githubusercontent.com/390517840/tvg-logo/main/fujianshaoer.png
+
+CCTV卫生健康
+https://raw.githubusercontent.com/390517840/tvg-logo/main/CCTVwsjk.png
