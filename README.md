@@ -27,7 +27,7 @@ BTV卡酷
 https://raw.githubusercontent.com/390517840/tvg-logo/main/BTVkaku.png
 
 淘baby
-https://raw.githubusercontent.com/390517840/tvg-logo/main/taobabypng
+https://raw.githubusercontent.com/390517840/tvg-logo/main/taobaby.png
 
 精彩体育
 https://raw.githubusercontent.com/390517840/tvg-logo/main/jingcaitiyu.png
