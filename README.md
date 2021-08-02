@@ -25,3 +25,13 @@ https://raw.githubusercontent.com/390517840/tvg-logo/main/bestTV.png
 
 BTV卡酷
 https://raw.githubusercontent.com/390517840/tvg-logo/main/BTVkaku.png
+
+淘baby
+https://raw.githubusercontent.com/390517840/tvg-logo/main/taobabypng
+
+精彩体育
+https://raw.githubusercontent.com/390517840/tvg-logo/main/jingcaitiyu.png
+
+
+
+
