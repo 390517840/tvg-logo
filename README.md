@@ -16,3 +16,6 @@ https://raw.githubusercontent.com/390517840/tvg-logo/main/CCTVwsjk.png
 
 体育赛事
 https://raw.githubusercontent.com/390517840/tvg-logo/main/tyss.png
+
+咪咕体育
+https://raw.githubusercontent.com/390517840/tvg-logo/main/migutiyu.png
