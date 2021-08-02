@@ -13,3 +13,6 @@ https://raw.githubusercontent.com/390517840/tvg-logo/main/fujianshaoer.png
 
 CCTV卫生健康
 https://raw.githubusercontent.com/390517840/tvg-logo/main/CCTVwsjk.png
+
+体育赛事
+https://raw.githubusercontent.com/390517840/tvg-logo/main/.png
