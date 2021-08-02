@@ -22,3 +22,6 @@ https://raw.githubusercontent.com/390517840/tvg-logo/main/migutiyu.png
 
 百事通
 https://raw.githubusercontent.com/390517840/tvg-logo/main/bestTV.png
+
+BTV卡酷
+https://raw.githubusercontent.com/390517840/tvg-logo/main/BTVkaku.png
